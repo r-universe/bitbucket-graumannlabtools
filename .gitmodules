@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "readat"]
+	path = readat
+	url = https://bitbucket.org/graumannlabtools/readat
+	shallow = true
+	registered = true
